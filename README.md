@@ -5,23 +5,7 @@
 
 ## About Me  
 - 🤖 Learning Machine Learning after mastering Data Structures & Algorithms (DSA).  
-- 📚 Love reading and discovering books .  
-
- Technologies & Tools  
-🛠️ Languages: Python, JavaScript, C++  
-🌐 Frontend: React, HTML, CSS, TailwindCSS  
-⚙️ Backend: Node.js, Express.js, Django  
-🗄️ Databases: PostgreSQL, MySQL, Firebase Firestore  
-☁️ Cloud: AWS (Lambda, S3, RDS), Firebase  
-📈 DSA & Algorithms: Strong understanding of Sorting, Binary Search, Linked Lists, Graphs, DP  
-
-## Get in Touch  
-📫 GitHub: [github.com/divyaramesh4](#)  
-💼 LinkedIn: [www.linkedin.com/in/divyarameshh/](#)  
-
-
-# 💫 About Me:
-# Hi there! 👋 I'm Divya R  <br><br>💻 Full Stack Developer | Backend Developer | SDE-1<br>🚀 Passionate about DSA, Software Development, Machine learning.<br><br>## About Me  <br>- 🤖 Learning Machine Learning after mastering Data Structures & Algorithms (DSA).  <br>- 📚 Love reading and discovering books .  <br><br> Technologies & Tools  <br>🛠️ Languages: Python, JavaScript, C++  <br>🌐 Frontend: React, HTML, CSS, TailwindCSS  <br>⚙️ Backend: Node.js, Express.js, Django  <br>🗄️ Databases: PostgreSQL, MySQL, Firebase Firestore  <br>☁️ Cloud: AWS (Lambda, S3, RDS), Firebase  <br>📈 DSA & Algorithms: Strong understanding of Sorting, Binary Search, Linked Lists, Graphs, DP  <br><br>## Get in Touch  <br>📫 GitHub: [github.com/divyaramesh4](#)  <br>💼 LinkedIn: [www.linkedin.com/in/divyarameshh/](#)  
+- 📚 Love reading and discovering books . 
 
 
 ## 🌐 Socials:
