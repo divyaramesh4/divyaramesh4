@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Divya R  
 
-💻 Full Stack Developer | Backend Developer | SDE-1
+Aspiring [Full Stack Developer | Backend Developer | SDE-1]
 🚀 Passionate about DSA, Software Development, Machine learning.
 
 ## About Me  
