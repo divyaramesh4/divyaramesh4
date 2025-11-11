@@ -20,7 +20,7 @@ Aspiring [Full Stack Developer | Backend Developer | SDE-1]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=divyaramesh4&icon=0&color=0)](https://visitcount.itsvg.in)
-Scan this qr code to land on my portfolio 
+Scan this qr code to land on my portfolio!!
 
 <img width="185" height="185" alt="image" src="https://github.com/user-attachments/assets/e524b509-2beb-45b2-9b07-e0f5474eaa46" />
 
