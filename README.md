@@ -4,7 +4,7 @@ Aspiring [Full Stack Developer | Backend Developer | SDE-1]
  - Passionate about DSA, Software Development, Machine learning.
 
 ## About Me  
-- Learning Machine Learning after mastering Data Structures & Algorithms (DSA).  
+- Learning Machine Learning after reading Data Structures & Algorithms (DSA).  
 -  Love reading and discovering books . 
 
 
